@@ -81,8 +81,6 @@ agent.run_agent(cycles=6)  # run for 6 iterations
 print("Final Performance Score:", agent.performance)
 ```
 
-
-
  
 <h1>OUTPUT</h1>
 <img width="618" height="540" alt="image" src="https://github.com/user-attachments/assets/870ab10b-782f-427c-8827-0d471866dabd" />
